@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTML JS CODE EDITOR</string>
+    <string name="runcode">Run code</string>
+    <string name="enterstring">Enter Your Code Here</string>
+</resources>
